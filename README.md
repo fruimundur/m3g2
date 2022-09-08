@@ -3,7 +3,7 @@
 The scope is this project was to create a responsive website using the Tailwind CSS framework.
 
 I created the responsive website by following a tutorial by the YouTube channel The Net Ninja
-Link to tutorial: https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw&ab_channel=TheNetNinja
+Link to tutorial: https://bit.ly/3QJBosV
 
 I followed every step of the tutorial and built an identical website to the one that was built in the tutorial.
 Whenever the tutor did something I didn't understand, I would look that up and get an understanding of it, before continuing the tutorial.
